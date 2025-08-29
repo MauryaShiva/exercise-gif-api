@@ -31,7 +31,7 @@ Home.get('/', (c) => {
   return c.html(
     <html>
       <head>
-        <title>ExerciseDB API</title>
+        <title>Exercise GIF API</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="utf-8" />
         <meta name="description" content={description} />
